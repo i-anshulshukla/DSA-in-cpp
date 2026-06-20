@@ -6,7 +6,7 @@ Repository for tracking my progress through C++ Data Structures and Algorithms (
 This repository serves as a centralized portfolio of my problem-solving journey. It highlights clean code, optimal time/space complexities, and consistent progress in mastering core computer science concepts.
 
 ## Tech Stack & Tools
-* **Language:** C++17 / C++20
+* **Language:** C++
 * **Environment:** Visual Studio Code (VS Code)
 * **Version Control:** Git & GitHub
 * **Platform:** LeetCode
