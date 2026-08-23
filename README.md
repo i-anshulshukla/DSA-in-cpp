@@ -17,10 +17,5 @@ Solutions are maintained directly in the root directory for rapid navigation. Fi
 * `88. Merge Sorted Array.cpp`
 * `121. Best Time to Buy and Sell Stock.cpp`
 
-## Topics Covered
-* **Arrays & Strings:** Two-Pointer approach, Sliding Window, Kadane's Algorithm
-* **Sorting & Searching:** Binary Search, Sorting Optimizations
-
-
 ---
 *Maintained by Anshul Shukla. Continuous commits driven by daily problem-solving.*
