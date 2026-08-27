@@ -1,10 +1,3 @@
-/*
- * @lc app=leetcode id=31 lang=cpp
- *
- * [31] Next Permutation
- */
-
-// @lc code=start
 class Solution {
 public:
     void nextPermutation(vector<int>& nums) {
@@ -26,5 +19,4 @@ public:
     reverse(nums.begin() + i + 1, nums.end());
     }
 };
-// @lc code=end
 
